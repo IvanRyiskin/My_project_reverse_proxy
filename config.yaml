@@ -1,0 +1,4 @@
+listener:
+  addr: ":8080"
+cache:
+  size: 10
